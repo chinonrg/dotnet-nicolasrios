@@ -1,0 +1,7 @@
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP2EJ2\bin\Debug\TP2EJ2.exe.config
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP2EJ2\bin\Debug\TP2EJ2.exe
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP2EJ2\bin\Debug\TP2EJ2.pdb
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP2EJ2\obj\Debug\TP2EJ2.csprojAssemblyReference.cache
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP2EJ2\obj\Debug\TP2EJ2.csproj.CoreCompileInputs.cache
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP2EJ2\obj\Debug\TP2EJ2.exe
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP2EJ2\obj\Debug\TP2EJ2.pdb
