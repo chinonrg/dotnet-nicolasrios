@@ -1,0 +1,8 @@
+C:\Users\Nicolas Rios\source\repos\TP1.1\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Nicolas Rios\source\repos\TP1.1\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Nicolas Rios\source\repos\TP1.1\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Nicolas Rios\source\repos\TP1.1\Ejercicio3\obj\Debug\Ejercicio1_3.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Rios\source\repos\TP1.1\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Nicolas Rios\source\repos\TP1.1\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\Nicolas Rios\source\repos\TP1.1\Ejercicio3\bin\Debug\Ejercicio3.exe.CodeAnalysisLog.xml
+C:\Users\Nicolas Rios\source\repos\TP1.1\Ejercicio3\bin\Debug\Ejercicio3.exe.lastcodeanalysissucceeded
